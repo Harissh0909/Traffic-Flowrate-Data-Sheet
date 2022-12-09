@@ -1,5 +1,5 @@
-﻿timeInterval,vehicleCount,flowRate
-7:00:00,680,2720
+timeInterval,vehicleCount
+7:00:00,680
 7:15:00,655
 7:30:00,667
 7:45:00,591
